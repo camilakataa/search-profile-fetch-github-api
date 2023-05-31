@@ -173,6 +173,7 @@ main {
 .container .profile-data .events ul li{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .container .profile-data .events ul li h3{
