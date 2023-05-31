@@ -170,7 +170,12 @@ main {
   margin-bottom: 30px;
 }
 
-.container .profile-data .events ul li span{
+.container .profile-data .events ul li{
+  display: flex;
+  justify-content: center;
+}
+
+.container .profile-data .events ul li h3{
   font-weight: 900;
 }
 
